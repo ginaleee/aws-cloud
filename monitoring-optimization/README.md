@@ -50,6 +50,9 @@ Here’s a **summarized study note** for the AWS Cloud Technical Essentials topi
 
 ### **4. Route Traffic with Amazon Elastic Load Balancing (ELB)**
 
+- [Elastic Load Balancing (ELB) Summary](./ELB.md)
+
+
 * **Distributes traffic** across multiple targets (EC2, containers, Lambda).
 * **Types**:
 
